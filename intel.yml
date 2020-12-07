@@ -1,4 +1,4 @@
-name: intel-test
+name: intel
 channels:
   - intel
   - defaults
