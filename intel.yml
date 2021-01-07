@@ -4,9 +4,9 @@ channels:
   - defaults
 dependencies:
    - intel::numpy=1.19.2
-   - intel::python=3.7.7
+   - python=3.7.7
    - intel::scikit-learn=0.23.2
-   - intel::scipy=1.5.2
+#   - intel::scipy=1.5.2
    - ipykernel=5.1.4
    - ipython=7.12.0
    - pandas=1.0.1
